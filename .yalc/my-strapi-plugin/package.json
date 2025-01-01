@@ -35,19 +35,6 @@
     "@strapi/icons": "^2.0.0-rc.14",
     "react-intl": "^7.0.4"
   },
-  "devDependencies": {
-    "@strapi/strapi": "^5.6.0",
-    "@strapi/sdk-plugin": "^5.2.8",
-    "prettier": "^3.4.2",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-router-dom": "^6.0.0",
-    "styled-components": "^6.1.13",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "@strapi/typescript-utils": "^5.6.0",
-    "typescript": "^5.7.2"
-  },
   "peerDependencies": {
     "@strapi/strapi": "^5.6.0",
     "@strapi/sdk-plugin": "^5.2.8",
@@ -65,5 +52,6 @@
   "name": "my-strapi-plugin",
   "description": "",
   "license": "MIT",
-  "author": "Chinthaka Dinadasa <sendtoclabz@gmail.com>"
+  "author": "Chinthaka Dinadasa <sendtoclabz@gmail.com>",
+  "yalcSig": "ea5a324709bc12fbdf9b643a3af2d9f3"
 }
